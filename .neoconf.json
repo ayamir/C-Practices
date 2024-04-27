@@ -1,0 +1,10 @@
+{
+    "lspconfig": {
+        "clangd": {
+            "clangd.restartAfterCrash": true,
+            "clangd.onConfigChanged": "restart",
+            "clangd.serverCompletionRanking": true,
+            "clangd.checkUpdates": false
+        }
+    }
+}
